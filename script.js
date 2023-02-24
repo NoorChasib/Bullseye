@@ -588,8 +588,10 @@ window.addEventListener("load", function () {
 			context.save();
 			context.textAlign = "left";
 			context.fillText("Score: " + this.score, 25, 50);
+			context.fillText("Debug: 'd'", 1040, 50);
 			if (this.debug) {
 				context.fillText("Lost: " + this.lostHatchlings, 25, 100);
+				context.fillText("- On", 1200, 50);
 			}
 			context.restore();
 
