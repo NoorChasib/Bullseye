@@ -6,4 +6,6 @@ https://user-images.githubusercontent.com/113642847/221145277-cf0def4f-69e1-496d
 
 
 ## About
-Bullseye is a browser game built using pure Javascript, HTML and CSS
+Bullseye is a fun browser game. 
+
+Built using pure Javascript, HTML and CSS
